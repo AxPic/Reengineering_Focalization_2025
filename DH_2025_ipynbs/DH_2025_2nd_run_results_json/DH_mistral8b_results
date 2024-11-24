@@ -1,0 +1,1062 @@
+[
+    {
+        "Autor":"Schiller",
+        "Titel":"Der Vebrecher aus verlorener Ehre",
+        "Absatz":"In der ganzen Geschichte des Menschen ist kein Kapitel unterrichtender für Herz und Geist als die Annalen seiner Verirrungen. Bei jedem großen Verbrechen war eine verhältnismäßig große Kraft in Bewegung. Wenn sich das geheime Spiel der Begehrungskraft bei dem matteren Licht gewöhnlicher Affekte versteckt, so wird es im Zustand gewaltsamer Leidenschaft desto hervorspringender, kolossalischer, lauter; der feinere Menschenforscher, welcher weiß, wie viel man auf die Mechanik der gewöhnlichen Willensfreiheit eigentlich rechnen darf und wie weit es erlaubt ist, analogisch zu schließen, wird manche Erfahrung aus diesem Gebiete in seine Seelenlehre herübertragen und für das sittliche Leben verarbeiten.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Schiller",
+        "Titel":"Der Vebrecher aus verlorener Ehre",
+        "Absatz":"Es ist etwas so Einförmiges und doch wieder so Zusammengesetztes, das menschliche Herz. Eine und eben dieselbe Fertigkeit oder Begierde kann in tausenderlei Formen und Richtungen spielen, kann tausend widersprechende Phänomene bewirken, kann in tausend Charakteren anders gemischt erscheinen, und tausend ungleiche Charaktere und Handlungen können wieder aus einerlei Neigung gesponnen sein, wenn auch der Mensch, von welchem die Rede ist, nichts weniger denn eine solche Verwandtschaft ahndet. Stünde einmal, wie für die übrigen Reiche der Natur, auch für das Menschengeschlecht ein Linnäus auf, welcher nach Trieben und Neigungen klassifizierte, wie sehr würde man erstaunen, wenn man so manchen, dessen Laster in einer engen bürgerlichen Sphäre und in der schmalen Umzäunung der Gesetze jetzt ersticken muß, mit dem Ungeheuer Borgia in einer Ordnung beisammen fände.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Schiller",
+        "Titel":"Der Vebrecher aus verlorener Ehre",
+        "Absatz":"Ich weiß, daß von den besten Geschichtschreibern neuerer Zeit und des Altertums manche sich an die erste Methode gehalten und das Herz ihres Lesers durch hinreißenden Vortrag bestochen haben. Aber diese Manier ist eine Usurpation des Schriftstellers und beleidigt die republikanische Freiheit des lesenden Publikums, dem es zukömmt, selbst zu Gericht zu sitzen; sie ist zugleich eine Verletzung der Grenzengerechtigkeit, denn diese Methode gehört ausschließend und eigentümlich dem Redner und Dichter. Dem Geschichtschreiber bleibt nur die letztere übrig.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Schiller",
+        "Titel":"Der Vebrecher aus verlorener Ehre",
+        "Absatz":"Der Held muß kalt werden wie der Leser, oder, was hier ebensoviel sagt, wir müssen mit ihm bekannt werden, eh er handelt, wir müssen ihn seine Handlung nicht bloß vollbringen, sondern auch wollen sehen. An seinen Gedanken liegt uns unendlich mehr als an seinen Taten, und noch weit mehr an den Quellen seiner Gedanken als an den Folgen jener Taten. Man hat das Erdreich des Vesuvs untersucht, sich die Entstehung seines Brandes zu erklären; warum schenkt man einer moralischen Erscheinung weniger Aufmerksamkeit als einer physischen? Warum achtet man nicht in eben dem Grade auf die Beschaffenheit und Stellung der Dinge, welche einen solchen Menschen umgaben, bis der gesammelte Zunder in seinem Inwendigen Feuer fing? Den Träumer, der das Wunderbare liebt, reizt eben das Seltsame und Abenteuerliche einer solchen Erscheinung; der Freund der Wahrheit sucht eine Mutter zu diesen verlorenen Kindern. Er sucht sie in der unveränderlichen Struktur der menschlichen Seele und in den veränderlichen Bedingungen, welche sie von außen bestimmten, und in diesen beiden findet er sie gewiß. Ihn überrascht es nun nicht mehr, in dem nämlichen Beete, wo sonst überall heilsame Kräuter blühen, auch den giftigen Schierling gedeihen zu sehen, Weisheit und Torheit, Laster und Tugend in einer Wiege beisammen zu finden.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Tieck",
+        "Titel":"Die beiden merkwürdigsten Tage aus Siegmunds Leben",
+        "Absatz":"Es war schon gegen Abend, als ein Wagen vor dem Gasthofe stillhielt, und ein junger Mensch munter und fröhlich herausstieg, um sich vom Wirt ein Zimmer anweisen zu lassen. Es entstand ein Laufen im ganzen Hause, Treppe auf und nieder, um Licht und Feuerung zu besorgen, alle Schritte hallten fünffach von den großen Gewölben wider, man führte den Fremden auf sein Zimmer und ließ ihm Wachslichter auf sehr eleganten Leuchtern da, und Herr Siegmund merkte aus allen Zeichen, daß er hier zwar in ein vornehmes, aber gewiß sehr teures Wirtshaus geraten sei.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Tieck",
+        "Titel":"Die beiden merkwürdigsten Tage aus Siegmunds Leben",
+        "Absatz":"»Mag’s doch!« sagte er ganz laut, indem er mit zuversichtlichen Schritten in seinem Zimmer auf und ab ging, und flüchtig die englischen Kupferstiche betrachtete. »Ich bin morgen vielleicht schon Rat, und alle Sorgen für die Zukunft sind gehoben.«",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Tieck",
+        "Titel":"Die beiden merkwürdigsten Tage aus Siegmunds Leben",
+        "Absatz":"Er sah aus dem Fenster; es war auf der Gasse noch ziemlich hell, und selbst hell genug, um ein allerliebstes Gesichtchen im gegenüberstehenden Hause zu bemerken, das aufmerksam nach ihm hinübersah. Seine Augen begegneten ihren freundlichen Blicken, er grüßte endlich, und sie dankte verbindlich. ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Tieck",
+        "Titel":"Die beiden merkwürdigsten Tage aus Siegmunds Leben",
+        "Absatz":"Der zukünftige Rat sah bei so guten Vorbedeutungen die Stadt mit sehr günstigen Augen an. Er träumte sich hundert angenehme Abenteuer, und sah es sehr ungern, als sich die Schöne von ihrem Fenster zurückzog, und er nur noch hinter ihren Vorhängen das Licht bemerkte, das sehr oft seine Stelle veränderte, und bald näher zum Fenster, bald weiter zurückgesetzt ward.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Karoline von Günderrode ",
+        "Titel":"Geschichte eines Braminen",
+        "Absatz":"Ich bin, sagte Almor, in Smirna geboren. Mein Vater, ein Franzose und reicher Kaufmann, der von der Christlichen zur Mahomedanischen Religion übergegangen war, behandelte mich, so selten ich auch vor ihm erschien, kalt und unfreundlich, und meine Mutter war vor meiner Erinnerung gestorben. Ich fühlte mich recht verlassen und oft tief erbittert durch meinen Vater. Kinder, wenn sie schon anfangen, das Leben mit den Augen ihres Geistes zu betrachten, werden von den Gewohnheiten, Verhältnissen und Forderungen der menschlichen Gesellschaft beängstigt, und nur die sanfte Hand guter Eltern kann sie ohne große Schmerzen in die ungewohnten Schranken des bürgerlichen und häuslichen Lebens einführen. Durch die Eltern spricht die Natur zuerst zu den Kindern. Wehe den armen Geschöpfen, wenn diese erste Sprache kalt und lieblos ist!",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Karoline von Günderrode ",
+        "Titel":"Geschichte eines Braminen",
+        "Absatz":"Da sich mir mehr unangenehme Gegenstände des Nachdenkens darboten, als angenehme, so entsagte ich ihm bald ganz; selbst die Ceremonien des mahomedanischen Gottesdienstes, die ich täglich mitmachen mußte, erregten meine Neugierde, deren Sinn zu verstehen, nicht. Mein Vater hatte oft gesagt, die Religionen seyen zwar nützliche politische Einrichtungen, allein für den einzelnen Aufgeklärten höchst überflüssig; der Ceremoniendienst war mir ohnehin beschwerlich, ich gab also diesem Ausspruche aus Bequemlichkeit meinen ganzen Beyfall.",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Karoline von Günderrode ",
+        "Titel":"Geschichte eines Braminen",
+        "Absatz":"Sechszehn Jahre war ich alt, als mich mein Vater (welcher haben wollte, ich solle Kaufmann werden) zu einem Handelsfreund in eine der größten Städte Europens sandte. Der Eindruck, welchen die Neuheit so vieler Gegenstände auf meine Seele machte, war nicht bedeutend, denn ich betrachtete die Dinge mehr mit den Augen, als mit dem Geiste. ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Karoline von Günderrode ",
+        "Titel":"Geschichte eines Braminen",
+        "Absatz":"Ich war genöthiget, die meisten Stunden des Tages mit Geschäften auszufüllen; diejenigen, die mir übrig blieben, wandte ich dazu an, mir Vergnügen zu machen. Ich besuchte Schauspiele, schöne Frauen, und ging mit leichtsinnigen jungen Männern um; dennoch blieb mir eine gewisse Verlegenheit und Ungeschicklichkeit im gesellschaftlichen Leben, die wir Morgenländer selten ablegen, weil unsere Lebensart sehr ungesellig ist.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Adelbert von Chamisso ",
+        "Titel":"Adelberts Fabel",
+        "Absatz":"Adelbert merkte, als er erwachte, er müsse lange geschlafen haben; er rieb sich die Augen, die sich nicht recht dem Lichte öffnen wollten, und den Kopf, der ihm ganz wüste war; er besann sich endlich doch der Absicht, die er gehabt hatte: auf die weite mühselige Wanderung auszugehen, um die Welt zu erschauen, sich selbst in ihr, sodann nachzudenken, und zu begreifen, falls er’s vermöchte; denn diese Dinge reizten ihn. Er sah den weißen Wanderstab neben sich liegen, wollte den ergreifen, sich aufraffen und unverdrossen weiter ziehen, aber der Winter war angebrochen und es war kalt; es hatte gefroren während seines Schlafes, und so fand er, daß sein Stab und seine Kleider und er selbst fest angefroren waren an dem Boden, so daß er sich nicht zu regen vermochte; die Hände nur, die auf seiner Brust geruht hatten, waren ihm frei geblieben. Durch die Zweige des Baumes, unter dem er lag, die nackt waren und ihres grünen Schmuckes beraubt, ging ein düstrer Nebelwind, daß sie unholden Klanges an einander rauschten; – es ist doch seltsam, dachte Adelbert; und er schlummerte wieder ein.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Adelbert von Chamisso ",
+        "Titel":"Adelberts Fabel",
+        "Absatz":"Adelbert schlummerte ein, und ward wach, und schlummerte wieder, und ermunterte sich aufs neue; hinter ihm (er lag gegen Norden hingestreckt) ging die Sonne auf, und ging nieder, und es wechselten die Monde, und die Jahre vergingen: er aber lag immer noch fest angefroren an dem Boden, und über seinem Haupte rauschten blätterlos die dürren windgeschlagenen Äste des Baumes. – Auch hatten sich rings um ihn, so weit er sehen konnte, Mauern aus Eis getürmt, die ihn umfingen und sich eng und enger um ihn drängten, gleich Mauern eines Kerkers, eines Grabes. Es ist doch seltsam, dachte Adelbert, und eine Beschwerde auf der Reise, und er dachte viel Törichtes, und wenig, das es nicht war; wie es denn manchem auf seiner Reise zu gehen pflegt.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Adelbert von Chamisso ",
+        "Titel":"Adelberts Fabel",
+        "Absatz":"Er dachte: man muß die Notwendigkeit männlich ertragen, und murren gegen das Verhängte, ist töricht. Gibt es einmal Gott, daß es Tauwetter werde, so erlang ich vielleicht wohl einmal noch meine Freiheit wieder, und setze dann meine Reise fort, und benutze klug, was ich alles sehe; und unter solchen Gedanken pflegt’ er jedesmal wieder einzuschlafen. ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Adelbert von Chamisso ",
+        "Titel":"Adelberts Fabel",
+        "Absatz":"Er war durch gründliches Nachforschen, zu dem er auch vollkommen Zeit hatte, nun dahinter gekommen, wie das Wesen des Winters so sehr bösartig sei, und er hegte einen herben Haß gegen den Frost. Die einzige Lust, die er übrigens genoß, war, durch die Eisrinde, die ihn umschloß, zu den Sternen hinzuschauen, wann sie am nächtlichen Himmel prangten, und an dem ruhigen Kreislauf des himmlischen Wagens um den Polarstern lernt’ er nach Zeiten erkennen, wann wiederum ein Jahr verstrichen war.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Johann Wolfgang Goethe ",
+        "Titel":"Die wunderlichen Nachbarskinder",
+        "Absatz":"Zwei Nachbarskinder von bedeutenden Häusern, Knabe und Mädchen, in verhältnismäßigem Alter um dereinst Gatten zu werden, ließ man in dieser angenehmen Aussicht miteinander aufwachsen, und die beiderseitigen Eltern freuten sich einer künftigen Verbindung. Doch man bemerkte gar bald, daß die Absicht zu mißlingen schien, indem sich zwischen den beiden trefflichen Naturen ein sonderbarer Widerwille hervortat. Vielleicht waren sie einander zu ähnlich. Beide in sich selbst gewendet, deutlich in ihrem Wollen, fest in ihren Vorsätzen; jedes einzeln geliebt und geehrt von seinen Gespielen; immer Widersacher, wenn sie zusammen waren, immer aufbauend für sich allein, immer wechselsweise zerstörend, wo sie sich begegneten, nicht wetteifernd nach einem Ziel, aber immer kämpfend um einen Zweck; gutartig durchaus und liebenswürdig, und nur hassend, ja bösartig, indem sie sich aufeinander bezogen.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Johann Wolfgang Goethe ",
+        "Titel":"Die wunderlichen Nachbarskinder",
+        "Absatz":"Dieses wunderliche Verhältnis zeigte sich schon bei kindischen Spielen, es zeigte sich bei zunehmenden Jahren. Und wie die Knaben Krieg zu spielen, sich in Parteien zu sondern, einander Schlachten zu liefern pflegen, so stellte sich das trotzig mutige Mädchen einst an die Spitze des einen Heers, und focht gegen das andre mit solcher Gewalt und Erbitterung, daß dieses schimpflich wäre in die Flucht geschlagen worden, wenn ihr einzelner Widersacher sich nicht sehr brav gehalten und seine Gegnerin doch noch zuletzt entwaffnet und gefangen genommen hätte. Aber auch da noch wehrte sie sich so gewaltsam, daß er, um seine Augen zu erhalten, und die Feindin doch nicht zu beschädigen, sein seidenes Halstuch abreißen und ihr die Hände damit auf den Rücken binden mußte.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Johann Wolfgang Goethe ",
+        "Titel":"Die wunderlichen Nachbarskinder",
+        "Absatz":"Dies verzieh sie ihm nie, ja sie machte so heimliche Anstalten und Versuche ihn zu beschädigen, daß die Eltern, die auf diese seltsamen Leidenschaften schon längst acht gehabt, sich miteinander verständigten und beschlossen, die beiden feindlichen Wesen zu trennen und jene lieblichen Hoffnungen aufzugeben. ",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Johann Wolfgang Goethe ",
+        "Titel":"Die wunderlichen Nachbarskinder",
+        "Absatz":"Der Knabe tat sich in seinen neuen Verhältnissen bald hervor. Jede Art von Unterricht schlug bei ihm an. Gönner und eigene Neigung bestimmten ihn zum Soldatenstande. Überall wo er sich fand, war er geliebt und geehrt. Seine tüchtige Natur schien nur zum Wohlsein, zum Behagen anderer zu wirken, und er war in sich, ohne deutliches Bewußtsein, recht glücklich, den einzigen Widersacher verloren zu haben, den die Natur ihm zugedacht hatte.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"E. T. A. Hoffmann ",
+        "Titel":"Die drei Diebe",
+        "Absatz":"Der Spätherbst in Berlin hat gewöhnlich noch einige schöne Tage. Die Sonne tritt freundlich aus dem Gewölk hervor, und schnell verdampft die Nässe in der lauen Luft, welche durch die Strassen weht. Dann sieht man eine lange Reihe, buntgemischt – Elegants, Bürger mit der Hausfrau und den lieben Kleinen in Sonntagskleidern, Geistliche, Jüdinnen, Referendare, Freudenmädchen, Professoren, Putzmacherinnen, Tänzer, Offiziere u.s.w. durch die Linden, nach dem Thiergarten ziehen. Bald sind alle Plätze bey Klaus und Weber besetzt; der Mohrrüben-Kaffee dampft, die Elegants zünden ihre Zigaros an, man spricht, man streitet über Krieg und Frieden, über die Schuhe der Mad. Bethmann, ob sie neulich grau oder grün waren, über den geschlossenen Handelsstaat und böse Groschen u.s.w., bis alles in eine Arie aus Fanchon zerfliesst, womit eine verstimmte Harfe, ein paar nicht gestimmte Violinen, eine lungensüchtige Flöte und ein spasmatischer Fagott sich, und die Zuhörer quälen. Dicht an dem Geländer, welches den Weberschen Bezirk von der Heerstrasse trennt, stehen mehrere kleine, runde Tische und Gartenstühle; hier athmet man freye Luft, beobachtet die Kommenden und Gehenden, ist entfernt von dem kakophonischen Getöse jenes vermaledeyten Orchesters: da setze ich mich hin, und überlasse mich dem leichten Spiel meiner Phantasie, die mir befreundete Gestalten, zuführt, mit denen ich über Wissenschaft, über Kunst, über alles, was dem Menschen am theuersten seyn soll, spreche. Immer bunter und bunter wogt die Masse der Spaziergänger bey mir vorüber, aber nichts stört mich, nichts kann meine phantastische Gesellschaft verscheuchen. Nur das verwünschte Trio eines höchst niederträchtigen Walzers reisst mich aus der Traumwelt. Die kreischende Oberstimme der Violine und Flöte, und des Fagotts schnarrenden Grundbass allein höre ich; sie gehen auf und ab fest aneinander haltend in Oktaven, die das Ohr zerschneiden, und unwillkührlich, wie jemand, den ein brennender Schmerz ergreift, ruf’ ich aus: Welche rasende Musik! die abscheulichen Oktaven! – Neben mir murmelt es: Verwünschtes Schicksal! schon wieder ein Oktavenjäger!",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"E. T. A. Hoffmann ",
+        "Titel":"Die drei Diebe",
+        "Absatz":"Ich sehe auf und werde nun erst gewahr, dass, von mir unbemerkt, an demselben Tische ein Mann Platz genommen hat, der seinen Blick starr auf mich richtet und von dem nun mein Auge nicht wieder los kommen kann.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"E. T. A. Hoffmann ",
+        "Titel":"Die drei Diebe",
+        "Absatz":"Nie sah’ ich einen Kopf, nie eine Gestalt, die so schnell einen so tiefen Eindruck auf mich gemacht hätten. Eine sanft gebogene Nase schloss sich an eine breite, offene Stirn, mit merklichen Erhöhungen über den buschigen, halbgrauen Augenbraunen, unter denen die Augen mit beynahe wildem, jugendlichem Feuer (der Mann mochte über funfzig seyn) hervorblitzten. Das weich geformte Kinn stand in seltsamem Kontrast mit dem geschlossenen Munde, und ein skurriles Lächeln, hervorgebracht durch ein sonderbares Muskelspiel in den eingefallenen Backen, schien sich aufzulehnen gegen den tiefen, melancholischen Ernst, der auf der Stirn ruhte. Nur wenige graue Löckchen lagen hinter den grossen, vom Kopfe abstehenden Ohren. Ein sehr weiter, moderner Ueberrock hüllte die grosse, hagere Gestalt ein. So wie mein Blick auf den Mann traf, schlug er die Augen nieder, und setzte das Geschäft fort, worin ihn mein Ausruf wahrscheinlich unterbrochen hatte. Er schüttete nämlich aus verschiedenen kleinen Düten mit sichtbarem Wohlgefallen Tabak in eine vor ihm stehende grosse Dose und feuchtete ihn mit rothem Wein aus einer Viertelsflasche an. Die Musik hatte aufgehört; ich fühlte die Nothwendigkeit ihn anzureden. ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"E. T. A. Hoffmann ",
+        "Titel":"Die drei Diebe",
+        "Absatz":"Es ist gut, dass die Musik schweigt, sagte ich; das war ja nicht auszuhalten.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Heinrich von Kleist ",
+        "Titel":"Der Findling",
+        "Absatz":"Antonio Piachi, ein wohlhabender Güterhändler in Rom, war genötigt, in seinen Handelsgeschäften zuweilen große Reisen zu machen. Er pflegte dann gewöhnlich Elvire, seine junge Frau, unter dem Schutz ihrer Verwandten, daselbst zurückzulassen. Eine dieser Reisen führte ihn mit seinem Sohn Paolo, einem eilfjährigen Knaben, den ihm seine erste Frau geboren hatte, nach Ragusa. Es traf sich, daß hier eben eine pestartige Krankheit ausgebrochen war, welche die Stadt und Gegend umher in großes Schrecken setzte. Piachi, dem die Nachricht davon erst auf der Reise zu Ohren gekommen war, hielt in der Vorstadt an, um sich nach der Natur derselben zu erkundigen. Doch da er hörte, daß das Übel von Tage zu Tage bedenklicher werde, und daß man damit umgehe, die Tore zu sperren; so überwand die Sorge für seinen Sohn alle kaufmännischen Interessen: er nahm Pferde und reisete wieder ab.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Heinrich von Kleist ",
+        "Titel":"Der Findling",
+        "Absatz":"Er bemerkte, da er im Freien war, einen Knaben neben seinem Wagen, der, nach Art der Flehenden, die Hände zu ihm ausstreckte und in großer Gemütsbewegung zu sein schien. Piachi ließ halten; und auf die Frage: was er wolle? antwortete der Knabe in seiner Unschuld: er sei angesteckt; die Häscher verfolgten ihn, um ihn ins Krankenhaus zu bringen, wo sein Vater und seine Mutter schon gestorben wären; er bitte um aller Heiligen willen, ihn mitzunehmen, und nicht in der Stadt umkommen zu lassen. Dabei faßte er des Alten Hand, drückte und küßte sie und weinte darauf nieder. Piachi wollte in der ersten Regung des Entsetzens, den Jungen weit von sich schleudern; doch da dieser, in eben diesem Augenblick, seine Farbe veränderte und ohnmächtig auf den Boden niedersank, so regte sich des guten Alten Mitleid: er stieg mit seinem Sohn aus, legte den Jungen in den Wagen, und fuhr mit ihm fort, obschon er auf der Welt nicht wußte, was er mit demselben anfangen sollte.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Heinrich von Kleist ",
+        "Titel":"Der Findling",
+        "Absatz":"Er unterhandelte noch, in der ersten Station, mit den Wirtsleuten, über die Art und Weise, wie er seiner wieder los werden könne: als er schon auf Befehl der Polizei, welche davon Wind bekommen hatte, arretiert und unter einer Bedeckung, er, sein Sohn und Nicolo, so hieß der kranke Knabe, wieder nach Ragusa zurück transportiert ward. Alle Vorstellungen von Seiten Piachis, über die Grausamkeit dieser Maßregel, halfen zu nichts; in Ragusa angekommen, wurden nunmehr alle drei, unter Aufsicht eines Häschers, nach dem Krankenhause abgeführt, wo er zwar, Piachi, gesund blieb, und Nicolo, der Knabe, sich von dem Übel wieder erholte: sein Sohn aber, der eilfjährige Paolo, von demselben angesteckt ward, und in drei Tagen starb. ",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Heinrich von Kleist ",
+        "Titel":"Der Findling",
+        "Absatz":"Die Tore wurden nun wieder geöffnet und Piachi, nachdem er seinen Sohn begraben hatte, erhielt von der Polizei Erlaubnis, zu reisen. Er bestieg eben, sehr von Schmerz bewegt, den Wagen und nahm, bei dem Anblick des Platzes, der neben ihm leer blieb, sein Schnupftuch heraus, um seine Tränen fließen zu lassen: als Nicolo, mit der Mütze in der Hand, an seinen Wagen trat und ihm eine glückliche Reise wünschte. Piachi beugte sich aus dem Schlage heraus und fragte ihn, mit einer von heftigem Schluchzen unterbrochenen Stimme: ob er mit ihm reisen wollte? Der Junge, sobald er den Alten nur verstanden hatte, nickte und sprach: o ja! sehr gern; und da die Vorsteher des Krankenhauses, auf die Frage des Güterhändlers: ob es dem Jungen wohl erlaubt wäre, einzusteigen? lächelten und versicherten: daß er Gottes Sohn wäre und niemand ihn vermissen würde; so hob ihn Piachi, in einer großen Bewegung, in den Wagen, und nahm ihn, an seines Sohnes Statt, mit sich nach Rom.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Clemens Brentano",
+        "Titel":"Die drei Nüsse",
+        "Absatz":"Daniel Wilhelm Möller, Professor und Bibliothekar zu Altorf, lebte im Jahr 1665 in Kolmar als Hofmeister der drei Söhne des Bürgermeisters Maggi. Im Oktober dieses Jahres hatte der Bürgermeister einen reisenden Alchimisten zum Gaste, und als bei dem Nachtische der Abendmahlzeit unter anderm Obste auch welsche Nüsse auf die Tafel gesetzt wurden, sprach die Gesellschaft, mancherlei von den Eigenschaften dieser Frucht. Da aber die drei Zöglinge Möllers etwas unmäßig zu den Nüssen griffen und sie lustig nacheinander aufknackten, verwies Möller es ihnen freundlich und gab ihnen folgenden Vers aus der Schola Salernitana zu verdeutschen auf: »Unica nux prodest, nocet altera, tertia mors est.« – Da übersetzten sie: »Eine Nuß nützt, die zweite schadet, der Tod ist die dritte.« Möller aber sagte zu ihnen, diese Übersetzung könne unmöglich die rechte sein, da sie die dritte Nuß längst genossen und doch noch frisch und gesund seien; sie möchten sich eines Bessern besinnen. Kaum waren diese Worte gesprochen, als der Alchimist mit Bestürzung plötzlich vom Tische aufsprang und sich in der ihm angewiesenen Stube verschloß, worüber alle Anwesende in nicht geringer Verwunderung waren. Der jüngste Sohn des Bürgermeisters folgte dem Fremden, um ihn auf Befehl seines Vaters zu fragen, ob ihm etwas zugestoßen sei; da er aber die Türe verschlossen fand, sah er durch das Schlüsselloch den Fremden auf den Knieen liegen und unter Tränen und Händeringen mehrere Male ausrufen: »Ah, mon Dieu, mon Dieu!«",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Clemens Brentano",
+        "Titel":"Die drei Nüsse",
+        "Absatz":"Kaum hatte der Knabe seinem Vater dies hinterbracht, als der Fremde sich von dem Diener zu einer einsamen Unterredung melden ließ. Alle entfernten sich. Da trat der Alchimist herein, fiel auf die Kniee, umfaßte die Füße des Bürgermeisters und flehte ihn unter heftigen Tränen an: er möge ihn nicht vor Gericht bringen, er möge ihn vor einem schmählichen Tode erretten.",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Clemens Brentano",
+        "Titel":"Die drei Nüsse",
+        "Absatz":"Der Bürgermeister, heftig über seine Rede erschrocken, fürchtete, der Mensch möge den Verstand verloren haben, hob ihn von der Erde auf und bat ihn freundlich: er möge ihm sagen, wie er auf so schreckliche Reden komme. Da erwiderte der Fremde: »Herr, verstellen Sie sich nicht, Sie und der Magister Möller kennen mein Verbrechen; der Vers von den drei Nüssen beweist es: tertia mors est, die dritte ist der Tod; ja, ja, eine bleierne Kugel war es, ein Druck des Fingers, und er schlug nieder. Sie haben sich verabredet, mich zu peinigen, Sie werden mich ausliefern, ich werde durch Sie unter das Schwert kommen.« ",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Clemens Brentano",
+        "Titel":"Die drei Nüsse",
+        "Absatz":"Der Bürgermeister glaubte nun die Verrücktheit des Alchimisten gewiß und suchte ihn durch freundliches Zureden zu beruhigen. Er aber ließ sich nicht beruhigen und sprach: »Wenn Sie es auch nicht wissen, so weiß es doch Ihr Hofmeister gewiß, denn er sah mich durchdringend an, als er sagte: ›tertia mors est‹.« Nun konnte der Bürgermeister nichts anders tun, als ihn bitten, ruhig zu Bette zu gehen, und ihm sein Ehrenwort zu geben, daß weder er noch Möller ihn verraten würden, wenn irgend etwas Wahres an seinem Unglücke sein sollte. Der Unglückliche aber wollte ihn nicht eher verlassen, bis Möller gerufen war und ihm auch heilig beteuerte, daß er ihn nicht verraten wolle; denn daß auch er nicht das mindeste von seinem Unglücke wisse, wollte er sich auf keine Weise überreden lassen.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Jean Paul ",
+        "Titel":"Die wunderbare Gesellschaft in der Neujahrsnacht",
+        "Absatz":"Wir haben alle schon verdrüßliche Geschichten gelesen, die uns mit der lieblichsten Irrhöhle voll Verwicklungen bezauberten und ängstigten und uns unruhig nach einem hellen Ausgang bogenlang herumgreifen ließen, bis endlich die unerwartete Zeile »als ich erwachte« uns die ganze Höhle unter den Füßen wegzog. Bei dem zweiten Lesen fanden wir dann alles durchsichtig und hell und waren nicht mehr zu peinigen. Eine solche trockne Historie ist gottlob meine von der wunderbaren Nacht-Gesellschaft nicht; ich war leider bei der Erscheinung derselben so wach als jetzt und saß am Fenster.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Jean Paul ",
+        "Titel":"Die wunderbare Gesellschaft in der Neujahrsnacht",
+        "Absatz":"Vorher muß sich der Leser einige Personalien von mir gefallen lassen, damit mein erbärmliches Benehmen gegen die Nacht-Sozietät, das meinen Mut mehr verbirgt als zeigt, zu erklären ist. – Nachmittags am Valettage des ein Jahr lang sterbenden Säkulums ging ich von 3 bis 8 Uhr nachdenkend in meinem Schreibzimmer auf und ab, weil ich vor Migräne nichts schreiben konnte; und hatte besonders über den unabsehlich-langen, um die Erde kriechenden Strom der künftigen Zeit meine schwermütigen Gedanken, wovon ich am Neujahrstage die besten ausklauben und niederschreiben wollte für dieses Werkchen. In die hinter fünf, sechs Jahrtausenden liegende Vergangenheit zurückzuschauen, gibt uns mutige Jugend-Gefühle; sie kommt uns als unsere antizipierte Kindheit vor; hingegen vorauszublicken weit über unsern letzten Tag hinweg und unzählige Jahrtausende herziehen zu sehen, die unsern bemooseten Spiel- und Begräbnisplatz immer höher überschneien und auf uns neue Städte und Gärten und auf diese wieder neuere und so ungemessen fort aufschlichten, dieses ewige, immer tiefere Eingraben und Überbauen verfinstert und belastet uns das freie Herz. Dadurch verdorret uns die Gegenwart zur Vergangenheit, und sie wird von totem Schimmel traurig überzogen. Der Geist des Menschen hasset nach seiner Natur die Veränderung, erstlich weil er sie außer sich nur bei großen Schritten und nie in ihrem ewigen Schleichen wahrnimmt, und zweitens weil er sie in sich weniger merkt, wo er der unveränderliche Schöpfer seiner eignen ist; dem Regenbogen und Lauffeuer in und außer sich sieht er nicht an, daß immer nur neue Tropfen und neue Funken sie bilden.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Jean Paul ",
+        "Titel":"Die wunderbare Gesellschaft in der Neujahrsnacht",
+        "Absatz":"Und gerade am Nachmittage, wo ich mein Inneres mit Trauertuch ausschlug und den Flor anlegte für das einschlummernde Jahrhundert, war ich ganz allein in meinem Schlößlein zu Mittelspitz – Hermine war in der Stadt bei einer kranken Freundin und wollte erst nachts heimkommen, »obwohl noch in diesem Jahrhundert«, nach dem gewöhnlichen säkularischen Scherz, den der Mensch nicht lassen kann – ich saß oben einsam in meinem Museum, unsere Magd war unten im Bedientenzimmer – wegen der grimmigen Kälte lagen alle Lehnsmänner meiner mittelspitzischen Krone in ihre Schneckenhäuschen eingespündet, und das dunkle Dörfchen war still. – ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Jean Paul ",
+        "Titel":"Die wunderbare Gesellschaft in der Neujahrsnacht",
+        "Absatz":"Mir war nicht wohl, sondern etwa so in meiner Haut, als hätte sie mir Nero harzig anpichen und annähen lassen, um mich in seinem Garten zu lanternisieren. Ein ätzenderes Sublimat für flüssige Gelehrten-Nerven konnte wohl schwerlich erdacht werden, als rechte Dezemberkälte ist; jeder Schnee ist ein Märzschnee, der sie abfrisset, der Frost ist ein Baumheber für unsere Wurzeln, kurz, wenn Todes- und Fieberkälte ein Autodafé ist, so ist Winterkälte ein Autillodafé. Leben kann man ohnehin nicht, nur leiden. So schwächten nun Frost und Migräne gemeinschaftlich alle Entschlossenheit in mir, die ohnehin zur Winterszeit in keinem Wesen zunimmt, das nicht gerade ein Wolf ist.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Franz Grillparzer ",
+        "Titel":"Das Kloster bei Sendomir",
+        "Absatz":"Die Strahlen der untergehenden Sonne vergoldeten die Abhänge eines der reizendsten Täler der Woiwodschaft Sendomir. Wie zum Scheidegruß ruhten sie auf den Mauern des an der Ostseite fensterreich und wohnlich prangenden Klosters, als eben zwei Reiter, von wenigen Dienern begleitet, den Saum der gegenüberliegenden Hügelkette erreichten und, von der Vesperglocke gemahnt, nach kurzem, betrachtendem Verweilen ihre Pferde in schärfern Trott setzten, taleinwärts, dem Kloster zu.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Franz Grillparzer ",
+        "Titel":"Das Kloster bei Sendomir",
+        "Absatz":"Die Kleidung der späten Gäste bezeichnete die Fremden. Breitgedrückte, befiederte Hüte, das Elenkoller vom dunkeln Brustharnisch gedrückt, die straffanliegenden Unterkleider und hohen Stulpstiefel erlaubten nicht, sie für eingeborne Polen zu halten. Und so war es auch. Als Boten des deutschen Kaisers zogen sie, selbst Deutsche, an den Hof des kriegerischen Johann Sobiesky, und vom Abend überrascht, suchten sie Nachtlager in dem vor ihnen liegenden Kloster.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"external",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Franz Grillparzer ",
+        "Titel":"Das Kloster bei Sendomir",
+        "Absatz":"Das bereits abendlich verschlossene Tor ward den Einlaßheischenden geöffnet, und der Pförtner hieß sie eintreten in die geräumige Gaststube, wo Erfrischung und Nachtruhe ihrer warte; obgleich, wie er entschuldigend hinzusetzte, der Abt und die Konventualen, bereits zur Vesper im Chor versammelt, sich für heute die Bewillkommung so werter Gäste versagen müßten. Die Angabe des etwas mißtrauisch blickenden Mannes ward durch den eintönigen Zusammenklang halb sprechend, halb singend erhobener Stimmen bekräftigt, die, aus dämpfender Ferne durch die hallenden Gewölbe sich hinwindend, den Chorgesang einer geistlichen Gemeine deutlich genug bezeichneten. ",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Franz Grillparzer ",
+        "Titel":"Das Kloster bei Sendomir",
+        "Absatz":"Die beiden Fremden traten in das angewiesene Gemach, welches, obgleich wie das ganze Kloster offenbar erst seit kurzem erbaut, doch altertümliche Spitzformen mit absichtlicher Genauigkeit nachahmte. Weniges, doch anständiges Geräte war rings an den Wänden verteilt. Die hohen Bogenfenster gingen ins Freie, wo der im Osten aufsteigende Mond, mit der letzten Abendhelle kämpfend, nur sparsame Schimmer auf die Erhöhungen des hüglichten Bodens warf, indes in den Falten der Täler und unter den Bäumen des Forstes sich allgemach die Nacht mit ihrem dunkeln Gefolge lagerte, und stille Ruhe, hold vermischend, ihren Schleier über Belebtes und Unbelebtes ausbreitete.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"external",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Eduard Mörike ",
+        "Titel":"Lucie Gelmeroth",
+        "Absatz":"Ich wollte – so erzählt ein deutscher Gelehrter in seinen noch ungedruckten Denkwürdigkeiten – als Göttinger Student auf einer Ferienreise auch meine Geburtsstadt einmal wieder besuchen, die ich seit lange nicht gesehen hatte. Mein verstorbener Vater war Arzt daselbst gewesen. Tausend Erinnerungen, und immer gedrängter, je näher ich der Stadt nun kam, belebten sich vor meiner Seele. Die Postkutsche rollte endlich durch’s Thor, mein Herz schlug heftiger, und mit taumligem Blick sah ich Häuser, Plätze und Alleen an mir vorübergleiten. Wir fuhren um die Mittagszeit bei’m Gasthofe an, ich speis’te an der öffentlichen Tafel, wo mich, so wie zu hoffen war, kein Mensch erkannte.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Eduard Mörike ",
+        "Titel":"Lucie Gelmeroth",
+        "Absatz":"Über dem Essen kamen nur Dinge zur Sprache, die mir ganz gleichgültig waren, und ich theilte daher in der Stille die Stunden des übrigen Tags für mich ein. Ich wollte nach Tische die nöthigsten Besuche schnell abthun, dann aber möglichst unbeschrien und einsam die alten Pfade der Kindheit beschleichen.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Eduard Mörike ",
+        "Titel":"Lucie Gelmeroth",
+        "Absatz":"Die Gesellschaft war schon im Begriff auseinander zu gehen, als ihre Unterhaltung noch einige Augenblicke bei einer Stadtbegebenheit verweilte, die das Publicum sehr zu beschäftigen schien und alsbald auch meine Aufmerksamkeit im höchsten Grad erregte. Ich hörte einen mir aus alter Zeit gar wohlbekannten Namen nennen; allein es war von einer Missethäterin die Rede, von einem Mädchen, das eines furchtbaren Verbrechens geständig seyn sollte; unmöglich konnte es eine und dieselbe Person mit derjenigen seyn, die mir im Sinne lag. Und doch, es hieß ja immer: Lucie Gelmeroth, und wieder: Lucie Gelmeroth; es wurde zuletzt ein Umstand berührt, der mir keinen Zweifel mehr übrig ließ; der Bissen stockte mir im Munde, ich saß wie gelähmt. ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Eduard Mörike ",
+        "Titel":"Lucie Gelmeroth",
+        "Absatz":"Dieß Mädchen war die jüngere Tochter eines vordem sehr wohlhabenden Kaufmanns. Als Nachbarskinder spielten wir zusammen, und ihr liebliches Bild hat, in so vielen Jahren, niemals bei mir verwischt werden können. Das Geschäft ihres Vaters gerieth, nachdem ich lange die Heimath verlassen, in tiefen Zerfall, bald starben beide Eltern. Vom Schicksal ihrer Hinterbliebenen hatte ich die ganze Zeit kaum mehr Etwas gehört; ich hätte aber wohl, auch ohne auf eine so traurige Art, wie eben geschah, an die Familie erinnert zu werden, in keinem Fall versäumt sie aufzusuchen. Ich ward, was des Mädchens Vergehen betrifft, aus dem Gespräch der Herren nicht klug, die sich nun überdieß entfernten; da ich jedoch den Prediger S., einen Bekannten meines väterlichen Hauses, als Beichtiger der Inquisitin hatte nennen hören, so sollte ein Besuch bei ihm mein erster Ausgang seyn, das Nähere der Sache zu vernehmen.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Adalbert Stifter ",
+        "Titel":"Der Condor",
+        "Absatz":"Um zwei Uhr einer schönen Junimondnacht ging ein Kater längs des Dachfirstes und schaute in den Mond. Das eine seiner Augen, von dem Strahle des Nachtgestirnes schräg getroffen, erglänzte wie ein grüner Irrwisch, das andere war schwarz wie Küchenpech, und so glotzte er zuletzt, am Ende der Dachkante ankommend, bei einem Fenster hinein – und ich heraus. Die großen, freundlichen Räder seiner Augen auf mich heftend, schien er befremdlich fragen zu wollen: »Was ist denn das, du lieber, alter Spiel- und Stubengenosse, daß du heute in die späte Nacht dein Gesicht zum Fenster hinaushältst, das sonst immer rot und gesund auf dem weißen Kissen lag und ruhig schlummerte, wenn ich bei meinen Nachtgängen gelegentlich vorbeikam und hineinschaute?«",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Adalbert Stifter ",
+        "Titel":"Der Condor",
+        "Absatz":"»Ei, Trauter«, erwiderte ich ihm auf die stumme Frage, »die Zeiten haben sich nun einmal sehr geändert, das siehst du; – die weißen Kissen liegen unzerknittert dort auf dem Bettgestelle, und der Vollmond malt die lieblich flirrenden Fensterscheiben darauf, statt daß er in mein schlummerndes Angesicht schiene, welches Gesicht ich dafür da am Simse in die Nacht hinaushalten muß, um damit schon durch drei Vierteile derselben auf den Himmel zu schauen; denn an demselben wird heute das seltenste und tollste Gestirn emporsteigen, was er je gesehen. Es wird zwar nicht leuchten, aber wenn nach Verdienst gerichtet würde, so ist etwas in ihm, das strahlenreicher ist, als der Mond und alle Sterne zusammengerechnet, deine glänzenden Augen nicht ausgenommen, Verehrtester.«",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Adalbert Stifter ",
+        "Titel":"Der Condor",
+        "Absatz":"So sagte ich ungefähr zu dem Kater, er aber drehte seine Augen, als verstände er meine Rede, noch einmal so groß und noch einmal so freundlich gegen mich, daß sie wie Glimmerscheiben leuchteten, und die Seite seines weichen Felles gegen meine Hand krümmend und stemmend, hob er sofort sein traulich Spinnen an, während ich fortfuhr, mit ihm zu kosen: »Man sieht viel in einer langen Mondnacht, das wirst du wissen, Lieber, wenn du sonst Beobachtungsgeist besitzest; aber siehe, ich wußte es nicht, da ich nie Zeit hatte, eine so recht von Herzen anzuschauen, allein in diesem Harren und Schauen nach dem Himmel, namentlich da der gehoffte Weltkörper immer nicht kam, hatte ich Muße genug, den Lebenslauf einer Frühlingsnacht zu studieren.« ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Adalbert Stifter ",
+        "Titel":"Der Condor",
+        "Absatz":"Da aber alles wahr ist, was ich da meinem lieben Freunde Hinze eröffnete, so sehe ich nicht ab, warum ich es nicht auch einem noch liebern Menschenauge eröffnen, dem einst dieses Blatt vorkommen könnte, warum ich nicht sagen sollte, daß mich wirklich ein närrisches und unglückliches Verhängnis an dieses Fenster kettete und meine Blicke die ganze Nacht in die Lüfte bannte. Es will fast närrisch sein, aber jeder säße auch bei mir hieroben, wenn er vorher das erlebt hätte, was ich.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Theodor Storm ",
+        "Titel":"Bulemanns Haus",
+        "Absatz":"In einer norddeutschen Seestadt, in der sogenannten Düsternstraße, steht ein altes verfallenes Haus. Es ist nur schmal, aber drei Stockwerke hoch; in der Mitte desselben, vom Boden bis fast in die Spitze des Giebels, springt die Mauer in einem erkerartigen Ausbau vor, welcher für jedes Stockwerk nach vorne und an den Seiten mit Fenstern versehen ist, so daß in hellen Nächten der Mond hindurchscheinen kann.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"external",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Theodor Storm ",
+        "Titel":"Bulemanns Haus",
+        "Absatz":"Seit Menschengedenken ist niemand in dieses Haus hinein- und niemand herausgegangen; der schwere Messingklopfer an der Haustür ist fast schwarz von Grünspan, zwischen den Ritzen der Treppensteine wächst jahraus jahrein das Gras. – Wenn ein Fremder fragt: »Was ist denn das für ein Haus?« so erhält er gewiß zur Antwort: »Es ist Bulemanns Haus«; wenn er aber weiter fragt: »Wer wohnt denn darin?« so antworten sie ebenso gewiß: »Es wohnt so niemand darin.« Die Kinder auf den Straßen und die Ammen an der Wiege singen:",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Theodor Storm ",
+        "Titel":"Bulemanns Haus",
+        "Absatz":"Und wirklich wollen lustige Brüder, die von nächtlichen Schmäusen dort vorbeigekommen, ein Gequieke wie von unzähligen Mäusen hinter den dunkeln Fenstern gehört haben. Einer, der im Übermut den Türklopfer anschlug, um den Widerhall durch die öden Räume schollern zu hören, behauptet sogar, er habe drinnen auf den Treppen ganz deutlich das Springen großer Tiere gehört. »Fast«, pflegt er, dies erzählend hinzuzusetzen, »hörte es sich an wie die Sprünge der großen Raubtiere, welche in der Menageriebude auf dem Rathausmarkte gezeigt wurden.« ",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Theodor Storm ",
+        "Titel":"Bulemanns Haus",
+        "Absatz":"Das gegenüberstehende Haus ist um ein Stockwerk niedriger, so daß nachts das Mondlicht ungehindert in die oberen Fenster des alten Hauses fallen kann. Aus einer solchen Nacht hat auch der Wächter etwas zu erzählen; aber es ist nur ein kleines altes Menschenantlitz mit einer bunten Zipfelmütze, das er droben hinter den runden Erkerfenstern gesehen haben will. Die Nachbarn dagegen meinen, der Wächter sei wieder einmal betrunken gewesen; sie hätten drüben an den Fenstern niemals etwas gesehen, das einer Menschenseele gleich gewesen.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Joseph von Eichendorff ",
+        "Titel":"Auch ich war in Arkadien",
+        "Absatz":"Da säß’ ich denn glücklich wieder hinter meinem Pulte, um dir meinen Reisebericht abzustatten. Es ist mir aber auf dieser Reise so viel Wunderliches begegnet, daß ich in der Tat nicht recht weiß, wo ich anfangen soll. Am besten, ich hebe, wie die Rosine aus dem Kuchen, ohne weiteres sogleich das Hauptabenteuer für dich aus.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Joseph von Eichendorff ",
+        "Titel":"Auch ich war in Arkadien",
+        "Absatz":"Du weißt, ich lebte seit langer Zeit fast wie ein Einsiedler und habe von der Welt und ihrer Julirevolution leider wenig Notiz genommen. Als ich meinen letzten Ausflug machte, war eben die Deutschheit aufgekommen und stand in ihrer dicksten Blüte. Ich kehrte daher auch diesmal nach Möglichkeit das Deutsche heraus, ja ich hatte mein gescheiteltes Haar, wie Albrecht Dürer, schlicht herabwachsen lassen und mir bei meinem Schneider, nicht ohne gründliche historische Vorstudien, einen gewissen germanischen Reiseschnitt besonders bestellt. Aber da kam ich gut an! Schon auf dem Postwagen – dieser fliegenden Universität –, in den nächsten Kaffeehäusern, Konditoreien und Tabagien konnte ich mit ebensoviel Erstaunen als Beschämung gewahr werden, wie weit ich in der Kultur zurück war.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Joseph von Eichendorff ",
+        "Titel":"Auch ich war in Arkadien",
+        "Absatz":"Die Deutschen, fand ich, waren unterdes französisch, die Franzosen deutsch, beide aber wiederum ein wenig polnisch geworden; jeder wenigstens verlangt das liberum veto für sich und möchte in Europa einen großen polnischen Reichstag stiften. Ich gestehe, daß mir weder das Polnische noch das Französische so gar geläufig ist, und ich stand daher ziemlich verblüfft da in meinem altdeutschen Rocke. Doch zur Sache: ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Joseph von Eichendorff ",
+        "Titel":"Auch ich war in Arkadien",
+        "Absatz":"Eines Tages kehrte ich in dem, dir wohl noch bekannten, großen Gasthofe »Zum goldenen Zeitgeist« ein. Das war, wie du dich erinnern wirst, zu unserer Zeit die ästhetische Börse der Schöngeister, wo wir bei einem Schoppen sauern Landweines gemütlich die Valuta und den täglichen Kurs der Poeten notierten. Da ging es damals ziemlich still her, denn wir hatten alle mehr Witz als Geld. Höchstens einige Gitarrenklänge, ein paar Toasts oder ein leidlicher Lärm, wenn wir um Schlegels Luzinde zankten, oder einen zufällig verlaufenen Kotzebuaner herausschmissen. Ich fragte sogleich eifrig nach den alten Gesellen. Aber sie waren wie verschollen, man wollte sich nicht einmal ihrer Namen mehr zu entsinnen wissen. Einen nur wies mir der Kellner mit ironischem Lächeln nach: vom »Goldenen Zeitgeiste« links ab, die erste Quergasse rechts, dann ins nächste Sackgäßchen wieder halb links ab bis ans Ende – ich glaube, der ironische Kellner wollte mich zur Welt hinausweisen. Nun ist es allerdings richtig: einige hat seitdem der Pegasus abgeworfen, andere haben ihn selbst abgeschafft, weil er Futter braucht und keines gibt. Genug, auch hier war alles verwandelt.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Karl Emil Franzos ",
+        "Titel":"»Baron Schmule«",
+        "Absatz":"Wenn man aus Barnow nach Süden fährt, in die Bukowina oder in die Moldau, so sieht man nach etwa drei Stunden, dort, wo die Straße bei Z. den Dniester überschreitet, auf einem Hügel ein stolzes Schloß liegen, mit hohen weißen Mauern und blinkenden Fenstern. Ein prächtiger Garten umgiebt es und zieht sich den Hügel hinab und weit in die Ebene hinein. Das ist vielleicht der schönste Herrensitz in Podolien und sicherlich der reichste. Er gehört dem »Baron Schmule«, wie er überall genannt wird, dem Manne, der einst Schmule Runnstein geheißen hat und jetzt der mächtige Freiherr Sigismund von Ronnicki ist.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"external",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Karl Emil Franzos ",
+        "Titel":"»Baron Schmule«",
+        "Absatz":"Der Mann hat einen großen Weg gemacht, er ist wie ein Pfeil nach seinem Ziele geschossen. Das gelingt nur wenigen Menschen; denn die meisten sind wie ein Kreisel, sie bewegen sich viel, laut und rasch, aber sie drehen sich immer um sich selbst herum und kommen nicht von der Stelle. Der Pfeil macht nicht mehr, nicht lautere, nicht raschere Bewegung, aber er schießt immer auf sein Ziel los. So Baron Schmule. Er hat sein Ziel fest ins Auge gefaßt und ist sicher darauf zugeschritten, obwohl er nur – ein Auge hatte.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Karl Emil Franzos ",
+        "Titel":"»Baron Schmule«",
+        "Absatz":"Aber auch er war ursprünglich ein Kreisel und nur durch ein Ereignis ist er zum Pfeil geworden: durch einen Peitschenhieb. Es ist eine sonderbare Geschichte … Vor mehr als fünfzig Jahren war’s, da lebte in Z. eine blutarme Witwe, die sich und ihren Sohn durch ein Gewerbe ernährte, von dem zwei Menschen in einem so kleinen Städtchen schwerlich satt werden; sie war eine Zuckerbäckerin. Die Frau hieß Miriam Runnstein. Der Sohn half der Mutter, kaum daß er gehen und rechnen konnte: er war Verkäufer der Ware. Unermüdlich lief der kleine Schmule durch die Straßen und rief: »Kauft Fladen! Fladen und Zuckermandeln! Kauft! kauft!« Aber es giebt wenige Näscher in der »Gasse«, und Hochzeiten und Beschneidungen, wo man eine Zuckerbäckerin ins Haus nimmt, kommen auch nicht täglich vor. Die Kreuzer flossen nur sehr spärlich in die kleine Wirtschaft, und der Hunger thut weh; der arme Schmule weinte oft bittere Thränen über feinen süßen Kram. ",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Karl Emil Franzos ",
+        "Titel":"»Baron Schmule«",
+        "Absatz":"Die beste Kundschaft, die er hatte, wohnte eine halbe Meile vom Städtchen, hoch oben auf dem Schlosse. Dieses Schloß gehörte damals dem Baron Wodnicki, Alfred Wodnicki, der überaus reich war und trotz seiner Verschwendung kaum mehr verbrauchen konnte, als das Erträgnis seiner ungeheuren Güter. Er lebte fast nie auf dem Schlosse, weil es ihm dort zu still und zu langweilig war, sondern entweder in Paris oder in Baden-Baden. Und zwar lebte er in Baden-Baden, wenn seine Frau in Paris war, und ging nach Paris, wenn seine Frau nach Baden-Baden kam. Es war das eine friedliche Vereinbarung zwischen den Gatten und sie vertrugen sich im Übrigen ganz gut. Auch der einzige Sprößling aus dieser Ehe, der junge Baron Wladislaus, lebte nicht auf dem Schlosse, sondern wurde in einer Jesuitenschule bei Krakau erzogen. Es hauste also oben nur das Gesinde. Nun kennt man vielleicht das Sprichwort der Polen: »Er ist faul und genäschig wie ein Lakai.« Das traf auch diesmal zu. Der kleine Schmule fand immer seine Rechnung dabei, wenn er mit seinem Korbe hinaufgekeucht kam, und machte daher unverdrossen in Sonnenhitze und Winterkälte den weiten Weg. Freilich bekam er schier zu jedem Kreuzer auch einen Puff, aber daran wird ein jüdisch Kind in Podolien mit der Zeit gewöhnt. So war er allmählich dreizehn Jahre alt geworden und wer weiß, wie lange er noch mit den Fladen und den Zuckermandeln seiner Mutter herumhausiert hätte, wäre nicht jenes Ereignis eingetreten, welches ihn aus einem Kreisel zu einem Pfeil machte.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"external",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Gottfried Keller ",
+        "Titel":"Der Narr auf Manegg",
+        "Absatz":"Einige Zeit nach dem Spaziergange, den Herr Jacques mit seinem Paten gemacht, wunderte es diesen, wie es dem jungen Adepten des Originalwesens ergehe und welche Fortschritte er darin zurückgelegt habe. An einem schönen Septembertage ging er darum in das Haus der Gevattersleute, um seinen Jungpaten heimzusuchen und etwa zu einem Gang vor das Thor einzuladen. Nur mit halbsäuerlicher Höflichkeit wurde er hiefür empfangen; denn man hielt ihn trotz seiner weißen Haare und seines gewaltigen Jabots für einen jener frondierenden Herren, welche, stets kühl gegen die Kirche und kritisch gegen die Staatsbehörden, sich zwar wohl hüten, irgendwo an einer praktischen Thätigkeit wirklichen Anteil zu nehmen, nichts desto weniger aber einer radikalen, wo nicht frivolen Gesinnung bezichtigt werden, einer Gesinnung, vor deren Einfluß besonders die Jugend zu bewahren sei.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Gottfried Keller ",
+        "Titel":"Der Narr auf Manegg",
+        "Absatz":"Der alte Herr ließ sich aber nicht abschrecken, seinen Taufschützling selbst aufzusuchen, und fand denselben im obersten Stockwerk des Hauses in seinem Sommerquartier, einer großen geweißten Kammer, deren hohe Fenster noch aus unzähligen runden Scheiben zusammengesetzt waren. In diesem Gemache standen die ältesten Schränke des Hauses, nicht etwa die schönen Nußbaumschränke, welche die Vorsäle der untern Gemächer zierten, sondern uralte, baufällige Kasten von Fichtenholz, mit Blumen und Vögeln bemalt. Von der Decke hingen verschollene Zierstücke, große Glaskugeln, die inwendig mit bunten Ausschnittbildern, Damen in Reifröcken, Jägern, Hirschen u.dgl., beklebt und mit einem weißen Gipsgrunde ausgegossen waren, so daß sie bemaltem Porzellane glichen. Auch prangten an den Wänden einige Familienbildnisse, welche wegen zu schlechter Arbeit aus den Wohnräumen verbannt worden. Ihre Gesichter lächelten alle ohne andere Ursache, als weil die Maler die Mundwinkel mit angewöhntem, eisernem Schnörkel so zu formen gezwungen waren. Diese grundlose Heiterkeit der verjährten Gesellschaft machte fast einen unheimlichen Eindruck. Die guten Maler und die Vorfahren schienen nicht immer gleichzeitig geraten zu sein. Dazwischen hingen wunderliche Bilder, die mit Harzfarben unmittelbar auf die Rückseite von Glastafeln gemalt waren, und vergilbte Kupferstiche, welche Prospekte zürcherischer Staatsceremonieen oder militärischer Schauspiele zum Gegenstand hatten. Seltsamer Weise war hier noch ein kleines Rähmlein versteckt mit längst gesprungenem Glase und einem gestochenen Bildnisse Karls I. dahinter; mit verblichener Tinte war darauf geschrieben:",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Gottfried Keller ",
+        "Titel":"Der Narr auf Manegg",
+        "Absatz":"Der Schreiber dieser Zeilen war aber nicht unter den thöricht lachenden Ahnen, die hier im Exil hingen, zu finden; derselbe weilte vielmehr, von einem guten Künstler gemalt, in einer ganz anderen Stadt in der Gemäldesammlung eines dortigen Liebhabers. Es war ein ernsthafter Mann in der Tracht des siebzehnten Jahrhunderts, dessen eisengraue Augenbrauen und Knebelbart wie Sturmfahnen zu flattern schienen. ",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Gottfried Keller ",
+        "Titel":"Der Narr auf Manegg",
+        "Absatz":"Nicht nur als eifriger Antipapist lebte er im Gedächtnis, sondern als ein Ungläubiger und Unbotmäßiger überhaupt, der zu verschiedenen Malen verwarnt und gebüßt worden sei; und da eine geheime Tradition im Hause dahin lautete, daß es besser wäre, wenn nie eine Empörung stattgefunden hätte, nie ein König enthauptet worden und auch keine Kirchentrennung entstanden wäre, so war das Bild von einem Nachkommen für unangenehm befunden und einem fremden Kenner guter Sachen verkauft worden. Noch lieber hätte man längst das kleine Bildchen mit der frechen Aufschrift entfernt. Allein es ging die abergläubische Sage, daß jedes Mal, so oft dies versucht würde, der alte Empörer nächtlich umgehe und mit entsetzlichen Hammerschlägen das Rähmlein wieder an der Wand befestige; der Schreck habe einst einen Hausgenossen so angegriffen, daß er daran gestorben sei.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Conrad Ferdinand Meyer ",
+        "Titel":"Plautus im Nonnenkloster",
+        "Absatz":"Nach einem heißen Sommertage hatte sich vor einem Casino der mediceischen Gärten zum Genusse der Abendkühle eine Gesellschaft gebildeter Florentiner um Cosmus Medici, den »Vater des Vaterlandes«, versammelt. Der reinste Abendhimmel dämmerte in prächtigen, aber zart abgestuften Farben über den mäßig Zechenden, unter welchen sich ein scharf geschnittener, greiser Kopf auszeichnete, an dessen beredten Lippen die Aufmerksamkeit der lauschenden Runde hing. Der Ausdruck dieses geistreichen Kopfes war ein seltsam gemischter: über die Heiterkeit der Stirn, die lächelnden Mundwinkel war der Schatten eines trüben Erlebnisses geworfen.",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Conrad Ferdinand Meyer ",
+        "Titel":"Plautus im Nonnenkloster",
+        "Absatz":"»Mein Poggio«, sagte nach einer eingetretenen Pause Cosmus Medici mit den klugen Augen in dem häßlichen Gesichte, »neulich habe ich das Büchlein deiner Fazetien wieder durchblättert. Freilich weiß ich es auswendig, und dieses mußte ich bedauern, da ich nur noch an den schlanken Wendungen einer glücklichen Form mich ergötzen, aber weder Neugierde noch Überraschung mehr empfinden konnte. Es ist unmöglich, daß du nicht, wählerisch wie du bist, diese oder jene deiner witzigen und liebenswürdigen Possen, sei es als nicht gesalzen genug oder als zu gesalzen, von der anerkannten Ausgabe des Büchleins ausgeschlossen hast. Besinne dich! Gib diesem Freundeskreise, wo die leiseste Anspielung verstanden und der keckste Scherz verziehen wird, eine Facezia inedita zum besten. Erzählend und schlürfend« – er deutete auf den Becher – »wirst du dein Leid vergessen!«",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Conrad Ferdinand Meyer ",
+        "Titel":"Plautus im Nonnenkloster",
+        "Absatz":"Den frischen Kummer, auf welchen Cosmus als auf etwas Stadtbekanntes anspielte, hatte dem greisen Poggio – dem jetzigen Sekretär der florentinischen Republik und dem vormaligen von fünf Päpsten, dem früheren Kleriker und späteren Ehemanne – einer seiner Söhne verursacht, welche alle herrlich begabt waren und alle nichts taugten. Dieser Elende hatte die greisen Haare des Vaters mit einer Tat beschimpft, die nahe an Raub und Diebstahl grenzte und dem für den Sohn einstehenden, sparsamen Poggio überdies eine empfindliche ökonomische Einbuße zuzog. ",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Conrad Ferdinand Meyer ",
+        "Titel":"Plautus im Nonnenkloster",
+        "Absatz":"Nach einem kurzen Besinnen antwortete der Greis: »Jene Possen oder ähnliche, die dir schmecken, mein Cosmus, kleiden, wie üppige Kränze, nur braune Locken und mißziemen einem zahnlosen Munde.« Er lächelte und zeigte noch eine hübsche Reihe weißer Zähne. »Und« – seufzte er – »nur ungern kehre ich zu jenen Jugendlichkeiten, wie harmlos im Grunde sie sein mögen, zurück, jetzt da ich die Unbefangenheit meiner Standpunkte und die Läßlichkeit meiner Lebensauffassung bei meinem Sohne – ich weiß nicht kraft welches unheimlichen Gesetzes der Steigerung – zu unerträglicher Frechheit, ja zur Ruchlosigkeit entarten sehe.«",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Marie von Ebner-Eschenbach ",
+        "Titel":"Krambambuli",
+        "Absatz":"Vorliebe empfindet der Mensch für allerlei Dinge und Wesen. Liebe, die echte, unvergängliche, die lernt er – wenn überhaupt – nur einmal kennen. So wenigstens meint der Herr Revierjäger Hopp. Wie viele Hunde hat er schon gehabt und auch gern gehabt, aber lieb, was man sagt lieb und unvergesslich, ist ihm nur einer gewesen – der Krambambuli. Er hatte ihn im Wirtshause Zum Löwen in Wischau von einem vazierenden Forstgehilfen gekauft oder eigentlich eingetauscht. Gleich beim ersten Anblick des Hundes war er von der Zuneigung ergriffen worden, die dauern sollte bis zu seinem letzten Atemzuge. Dem Herrn des schönen Tieres, der am Tische vor einem geleerten Branntweingläschen saß und über den Wirt schimpfte, weil dieser kein zweites umsonst hergeben wollte, sah der Lump aus den Augen. Ein kleiner Kerl, noch jung und doch so fahl wie ein abgestorbener Baum, mit gelbem Haar und gelbem spärlichem Barte. Der Jägerrock, vermutlich ein Überrest aus der vergangenen Herrlichkeit des letzten Dienstes, trug die Spuren einer im nassen Straßengraben zugebrachten Nacht. Obwohl sich Hopp ungern in schlechte Gesellschaft begab, nahm er trotzdem Platz neben dem Burschen und begann sogleich ein Gespräch mit ihm. Da bekam er es denn bald heraus, dass der Nichtsnutz den Stutzen und die Jagdtasche dem Wirt bereits als Pfänder ausgeliefert hatte und dass er jetzt auch den Hund als solches hergeben möchte; der Wirt jedoch, der schmutzige Leuteschinder, wollte von einem Pfand, das gefüttert werden muss, nichts hören.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Marie von Ebner-Eschenbach ",
+        "Titel":"Krambambuli",
+        "Absatz":"Herr Hopp sagte vorerst kein Wort von dem Wohlgefallen, das er an dem Hunde gefunden hatte, ließ aber eine Flasche von dem guten Danziger Kirschbranntwein bringen, den der Löwenwirt damals führte, und schenkte dem Vazierenden fleißig ein. – Nun, in einer Stunde war alles in Ordnung. Der Jäger gab zwölf Flaschen von demselben Getränke, bei dem der Handel geschlossen worden – der Vagabund gab den Hund. Zu seiner Ehre muss man gestehen: nicht leicht. Die Hände zitterten ihm so sehr, als er dem Tiere die Leine um den Hals legte, dass es schien, er werde mit dieser Manipulation nimmermehr zurechtkommen. Hopp wartete geduldig und bewunderte im Stillen den trotz der schlechten Kondition, in der er sich befand, wundervollen Hund. Höchstens zwei Jahre mochte er alt sein, und in der Farbe glich er dem Lumpen, der ihn hergab, doch war die seine um ein paar Schattierungen dunkler. Auf der Stirn hatte er ein Abzeichen, einen weißen Strich, der rechts und links in kleine Linien auslief, in der Art wie die Nadeln an einem Tannenreis. Die Augen waren groß, schwarz, leuchtend, von tauklaren, lichtgelben Reiflein umsäumt, die Ohren hoch angesetzt, lang, makellos. Und makellos war alles an dem ganzen Hunde von der Klaue bis zu der feinen Witternase; die kräftige, geschmeidige Gestalt, das über jedes Lob erhabene Piedestal. Vier lebende Säulen, die auch den Körper eines Hirsches getragen hätten und nicht viel dicker waren als die Läufe eines Hasen. Beim heiligen Hubertus! dieses Geschöpf musste einen Stammbaum haben, so alt und rein wie der eines deutschen Ordensritters. Dem Jäger lachte das Herz im Leibe über den prächtigen Handel, den er gemacht hatte. Er stand nun auf, ergriff die Leine, die zu verknoten dem Vazierenden endlich gelungen war, und fragte: »Wie heißt er denn?« – »Er heißt wie das, wofür Ihr ihn kriegt: Krambambuli«, lautete die Antwort. – »Gut, gut, Krambambuli! So komm! Wirst gehen? Vorwärts!« – Ja, er konnte lange rufen, pfeifen, zerren – der Hund gehorchte ihm nicht, wandte den Kopf dem zu, den er noch für seinen Herrn hielt, heulte, als dieser ihm zuschrie: »Marsch!« und den Befehl mit einem tüchtigen Fußtritt begleitete, suchte sich aber immer wieder an ihn heranzudrängen. Erst nach einem heißen Kampfe gelang es Herrn Hopp, die Besitzergreifung des Hundes zu vollziehen. Gebunden und geknebelt musste er zuletzt in einem Sacke auf die Schulter geladen und so bis in das mehrere Wegstunden entfernte Jägerhaus getragen werden.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Marie von Ebner-Eschenbach ",
+        "Titel":"Krambambuli",
+        "Absatz":"Dem Jäger lachte das Herz im Leibe über den prächtigen Handel, den er gemacht hatte. Er stand nun auf, ergriff die Leine, die zu verknoten dem Vazierenden endlich gelungen war, und fragte: »Wie heißt er denn?« – »Er heißt wie das, wofür Ihr ihn kriegt: Krambambuli«, lautete die Antwort. – »Gut, gut, Krambambuli! So komm! Wirst gehen? Vorwärts!« – Ja, er konnte lange rufen, pfeifen, zerren – der Hund gehorchte ihm nicht, wandte den Kopf dem zu, den er noch für seinen Herrn hielt, heulte, als dieser ihm zuschrie: »Marsch!« und den Befehl mit einem tüchtigen Fußtritt begleitete, suchte sich aber immer wieder an ihn heranzudrängen. Erst nach einem heißen Kampfe gelang es Herrn Hopp, die Besitzergreifung des Hundes zu vollziehen. Gebunden und geknebelt musste er zuletzt in einem Sacke auf die Schulter geladen und so bis in das mehrere Wegstunden entfernte Jägerhaus getragen werden. ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Marie von Ebner-Eschenbach ",
+        "Titel":"Krambambuli",
+        "Absatz":"Zwei volle Monate brauchte es, bevor Krambambuli, halb totgeprügelt, nach jedem Fluchtversuche mit dem Stachelhalsband an die Kette gelegt, endlich begriff, wohin er jetzt gehöre. Dann aber, als seine Unterwerfung vollständig geworden war, was für ein Hund wurde er da! Keine Zunge schildert, kein Wort ermisst die Höhe der Vollendung, die er erreichte, nicht nur in der Ausübung seines Berufes, sondern auch im täglichen Leben als eifriger Diener, guter Kamerad und treuer Freund und Hüter. »Dem fehlt nur die Sprache«, heißt es von anderen intelligenten Hunden – dem Krambambuli fehlte sie nicht; sein Herr zum mindesten pflog lange Unterredungen mit ihm. Die Frau des Revierjägers wurde ordentlich eifersüchtig auf den »Buli«, wie sie ihn geringschätzig nannte. Manchmal machte sie ihrem Manne Vorwürfe. Sie hatte den ganzen Tag, in jeder Stunde, in der sie nicht aufräumte, wusch oder kochte, schweigend gestrickt. Am Abend, nach dem Essen, wenn sie wieder zu stricken begann, hätte sie gern eins dazu geplaudert.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Heinrich Mann",
+        "Titel":"Ein Verbrechen",
+        "Absatz":"»Glaubt mir, ihr jungen Leute, und begnügt euch in der Liebe mit Kleinigkeiten! Nehmt von den Frauen das Gute an, das sie euch zu geben vermögen, aber im übrigen –«",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Heinrich Mann",
+        "Titel":"Ein Verbrechen",
+        "Absatz":"Der Rittmeister a.D. von Hecht machte die seinen Gästen bekannte Handbewegung: »Reden wir nicht davon.« Er nahm einen Schluck Punsch und fuhr fort:",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Heinrich Mann",
+        "Titel":"Ein Verbrechen",
+        "Absatz":"»Was die große Leidenschaft anbetrifft, so liegt das Übel darin, daß sie sich niemals auf beiden Seiten gleich groß findet. Ist sie nun auf eurer Seite größer, so ist das ein Unglück, aber hier kann man sagen: gegen Leiden hilft Tätigkeit, manchmal wenigstens. Wächst euch dagegen die Leidenschaft der Frau über den Kopf, so ruht ihr am Fuß eines Vulkans aus, der Schwefelregen wird euch begraben. Ich werde vielleicht zu tief, das wäre schade; also will ich euch lieber gleich die Geschichte erzählen, der ich meine Philosophie verdanke. ",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"external",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Heinrich Mann",
+        "Titel":"Ein Verbrechen",
+        "Absatz":"Als ich im Jahre 82 nach M. versetzt wurde, war ich an eine großstädtische Lebensweise gewöhnt und fand das Dasein in dem Neste etwas kärglich. Die Leute aßen recht gut, aber in ihren Sitten waren es Kleinbürger. Das einzige Haus, wo man sich mitunter gut unterhielt, war das eines reichen Kaufmannes namens Starke, der mit Fellen, Pelzen oder so etwas Ähnlichem handelte. Er hatte eine Frau, die ich, als ein Kamerad mich ihr vorstellte, wiedererkannte; ich hatte sie auf der Straße zwar nur von hinten gesehen, aber sie übertrieb beim Gehen das Wiegen ihrer Hüften, Sie hatte eine zu kurze, doch vollkommen runde Taille und auffallend schweres braunes Haar. Außerdem war ihre Nase von entzückender Feinheit, mit leicht beweglichen Flügeln. Wenn sie lächelte, biß sie mit den spitzen weißen Zähnen in ihre blutroten Lippen wie in einen Pfirsich, und ihre grauen Augen blickten dazu voll träumerisch versteckter Neugierde. Später habe ich in großen Momenten silberne Schlangen darin aufzüngeln gesehen.",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Hugo von Hofmannsthal ",
+        "Titel":"Erlebnis des Marschalls von Bassompierre",
+        "Absatz":"Zu einer gewissen Zeit meines Lebens brachten es meine Dienste mit sich, daß ich ziemlich regelmäßig mehrmals in der Woche um eine gewisse Stunde über die kleine Brücke ging (denn der Pont neuf war damals noch nicht erbaut) und dabei meist von einigen Handwerkern oder anderen Leuten aus dem Volk erkannt und gegrüßt wurde, am auffälligsten aber und regelmäßigsten von einer sehr hübschen Krämerin, deren Laden an einem Schild mit zwei Engeln kenntlich war, und die, sooft ich in den fünf oder sechs Monaten vorüberkam, sich tief neigte und mir soweit nachsah, als sie konnte. Ihr Betragen fiel mir auf, ich sah sie gleichfalls an und dankte ihr sorgfältig. Einmal, im Spätwinter, ritt ich von Fontainebleau nach Paris, und als ich wieder die kleine Brücke heraufkam, trat sie an ihre Ladentür und sagte zu mir, indem ich vorbeiritt: »Mein Herr, Ihre Dienerin!« Ich erwiderte ihren Gruß, und indem ich mich von Zeit zu Zeit umsah, hatte sie sich weiter vorgelehnt, um mir soweit als möglich nachzusehen. Ich hatte einen Bedienten und einen Postillon hinter mir, die ich noch diesen Abend mit Briefen an gewisse Damen nach Fontainebleau zurückschicken wollte. Auf meinen Befehl stieg der Bediente ab und ging zu der jungen Frau, ihr in meinem Namen zu sagen, daß ich ihre Neigung, mich zu sehen und zu grüßen, bemerkt hätte; ich wollte, wenn sie wünschte mich näher kennenzulernen, sie aufsuchen, wo sie verlangte.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Hugo von Hofmannsthal ",
+        "Titel":"Erlebnis des Marschalls von Bassompierre",
+        "Absatz":"Sie antwortete dem Bedienten: er hätte ihr keine erwünschtere Botschaft bringen können, sie wollte kommen, wohin ich sie bestellte.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Hugo von Hofmannsthal ",
+        "Titel":"Erlebnis des Marschalls von Bassompierre",
+        "Absatz":"Im Weiterreiten fragte ich den Bedienten, ob er nicht etwa einen Ort wüßte, wo ich mit der Frau zusammenkommen könnte. Er antwortete, daß er sie zu einer gewissen Kupplerin führen wollte; da er aber ein sehr besorgter und gewissenhafter Mensch war, dieser Diener Wilhelm aus Courtrai, so setzte er gleich hinzu: da die Pest sich hie und da zeige und nicht nur Leute aus dem niedrigen und schmutzigen Volk, sondern auch ein Doktor und ein Domherr schon daran gestorben seien, so rate er mir, Matratzen, Decken und Leintücher aus meinem Hause mitbringen zu lassen. Ich nahm den Vorschlag an, und er versprach, mir ein gutes Bett zu bereiten. Vor dem Absteigen sagte ich noch, er solle auch ein ordentliches Waschbecken dorthin tragen, eine kleine Flasche mit wohlriechender Essenz und etwas Backwerk und Äpfel; auch solle er dafür sorgen, daß das Zimmer tüchtig geheizt werde, denn es war so kalt, daß mir die Füße im Bügel steif gefroren waren, und der Himmel hing voll Schneewolken. ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Hugo von Hofmannsthal ",
+        "Titel":"Erlebnis des Marschalls von Bassompierre",
+        "Absatz":"Den Abend ging ich hin und fand eine sehr schöne Frau von ungefähr zwanzig Jahren auf dem Bette sitzen, indes die Kupplerin, ihren Kopf und ihren runden Rücken in ein schwarzes Tuch eingemummt, eifrig in sie hineinredete. Die Tür war angelehnt, im Kamin lohten große frische Scheiter geräuschvoll auf, man hörte mich nicht kommen, und ich blieb einen Augenblick in der Tür stehen. Die Junge sah mit großen Augen ruhig in die Flamme; mit einer Bewegung ihres Kopfes hatte sie sich wie auf Meilen von der widerwärtigen Alten entfernt; dabei war unter einer kleinen Nachthaube, die sie trug, ein Teil ihrer schweren dunklen Haare vorgequollen und fiel, zu ein paar natürlichen Locken sich ringelnd, zwischen Schulter und Brust über das Hemd. Sie trug noch einen kurzen Unterrock von grünwollenem Zeug und Pantoffeln an den Füßen. In diesem Augenblick mußte ich mich durch ein Geräusch verraten haben: Sie warf ihren Kopf herum und bog mir ein Gesicht entgegen, dem die übermäßige Anspannung der Züge fast einen wilden Ausdruck gegeben hätte, ohne die strahlende Hingebung, die aus den weit aufgerissenen Augen strömte und aus dem sprachlosen Mund wie eine unsichtbare Flamme herausschlug. Sie gefiel mir außerordentlich; schneller, als es sich denken läßt, war die Alte aus dem Zimmer und ich bei meiner Freundin. Als ich mir in der ersten Trunkenheit des überraschenden Besitzes einige Freiheiten herausnehmen wollte, entzog sie sich mir mit einer unbeschreiblich lebenden Eindringlichkeit zugleich des Blickes und der dunkeltönenden Stimme. Im nächsten Augenblick aber fühlte ich mich von ihr umschlungen, die noch inniger mit dem fort und fort empordrängenden Blick der unerschöpflichen Augen als mit den Lippen und den Armen an mir haftete; dann wieder war es, als wollte sie sprechen, aber die von Küssen zuckenden Lippen bildeten keine Worte, die bebende Kehle ließ keinen deutlicheren Laut als ein gebrochenes Schluchzen empor.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Rainer Maria Rilke ",
+        "Titel":"Die Turnstunde",
+        "Absatz":"In der Militärschule zu Sankt Severin. Turnsaal. Der Jahrgang steht in den hellen Zwillichblusen, in zwei Reihen geordnet, unter den großen Gaskronen. Der Turnlehrer, ein junger Offizier mit hartem braunen Gesicht und höhnischen Augen, hat Freiübungen kommandiert und verteilt nun die Riegen. »Erste Riege Reck, zweite Riege Barren, dritte Riege Bock, vierte Riege Klettern! Abtreten!« Und rasch, auf den leichten, mit Kolophonium isolierten Schuhen, zerstreuen sich die Knaben. Einige bleiben mitten im Saale stehen, zögernd, gleichsam unwillig. Es ist die vierte Riege, die schlechten Turner, die keine Freude haben an der Bewegung bei den Geräten und schon müde sind von den zwanzig Kniebeugen und ein wenig verwirrt und atemlos.",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Rainer Maria Rilke ",
+        "Titel":"Die Turnstunde",
+        "Absatz":"Nur Einer, der sonst der Allerletzte blieb bei solchen Anlässen, Karl Gruber, steht schon an den Kletterstangen, die in einer etwas dämmerigen Ecke des Saales, hart vor den Nischen, in denen die abgelegten Uniformröcke hängen, angebracht sind. Er hat die nächste Stange erfaßt und zieht sie mit ungewöhnlicher Kraft nach vorn, so daß sie frei an dem zur Übung geeigneten Platze schwankt. Gruber läßt nicht einmal, die Hände von ihr, er springt auf und bleibt, ziemlich hoch, die Beine ganz unwillkürlich im Kletterschluß verschränkt, den er sonst niemals begreifen konnte, an der Stange hängen. So erwartet er die Riege und betrachtet – wie es scheint – mit besonderem Vergnügen den erstaunten Ärger des kleinen polnischen Unteroffiziers, der ihm zuruft, abzuspringen. Aber Gruber ist diesmal sogar ungehorsam und Jastersky, der blonde Unteroffizier, schreit endlich: »Also, entweder Sie kommen herunter oder Sie klettern hinauf, Gruber! Sonst melde ich dem Herrn Oberlieutenant …« Und da beginnt Gruber zu klettern, erst heftig mit Überstürzung, die Beine wenig aufziehend und die Blicke aufwärts gerichtet, mit einer gewissen Angst das unermeßliche Stück Stange abschätzend, das noch bevorsteht. Dann verlangsamt sich seine Bewegung; und als ob er jeden Griff genösse, wie etwas Neues, Angenehmes, zieht er sich höher, als man gewöhnlich zu klettern pflegt. Er beachtet nicht die Aufregung des ohnehin gereizten Unteroffiziers, klettert und klettert, die Blicke immerfort aufwärts gerichtet, als hätte er einen Ausweg in der Decke des Saales entdeckt und strebte danach, ihn zu erreichen. Die ganze Riege folgt ihm mit den Augen. Und auch aus den anderen Riegen richtet man schon da und dort die Aufmerksamkeit auf den Kletterer, der sonst kaum das erste Drittteil der Stange keuchend, mit rotem Gesicht und bösen Augen erklomm.",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Karl May ",
+        "Titel":"Sonnenscheinchen",
+        "Absatz":"Der Herr Major fuhr durch das Dorf. Die Frau Major saß neben ihm. Und auch das ›Majörle‹ war dabei, das kleine.",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Karl May ",
+        "Titel":"Sonnenscheinchen",
+        "Absatz":"Man kannte den Herrn Major im ganzen Orte, und einen Einzigen ausgenommen, hatte ihn jedermann lieb. Er gehörte zu jenen im Dienste unnachsichtig strengen Offizieren, die aber, sobald sie den Zivilrock tragen, dann gegen alle Menschen mild und freundlich sind. Und heute war er in Zivil! Der weiche Felbelhut saß ihm hinten im Nacken, sodaß das braune Gesicht mit der hohen Stirn ganz zu sehen war, unter welcher die hellen Augen nach allen Seiten lachten.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Karl May ",
+        "Titel":"Sonnenscheinchen",
+        "Absatz":"Die Frau Major war eine schöne, schlanke, aber blasse Dame. Sie trug zwar einen Schleier, hatte ihn aber trotz des Sonnenscheins, der rundum licht auf den Fluren lag, zurückgeschlagen, um die gesunde, reine Bergesluft frei einatmen zu können. Ihre Augen hatten fast die Farbe der Veilchen, die sich schon hier und da im Grase sonnten; sie schaute so sinnend, so eigentümlich träumerisch in die Welt hinein. Was für Augen das wohl waren? Diese Frage wußte der Herr Lehrer am besten zu beantworten. Er war in den vorigen Ferien in der Residenz gewesen und hatte bei Majors mitspeisen dürfen. Da hatte er mit der Dame viel gesprochen und dann nach seiner Rückkehr im Dorfe berichtet: »Sie ist hochgebildet und außerordentlich ideal; darum faßt sie alles von der poetischen Seite auf. Ja, sie macht sogar Gedichte, wenn es paßt!« ",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Karl May ",
+        "Titel":"Sonnenscheinchen",
+        "Absatz":"Das ›Majörle‹, welches im Wagen rückwärts saß, war nicht in Zivil. Seine elfjährige Gestalt steckte in der schönen, bunten Uniform, welche ihm zu Weihnachten vom Christkindlein beschert worden war. Daheim durfte sie nur im Zimmer getragen werden; auf der Straße war es verboten. Aber hier im Dorfe, das war etwas ganz anderes! Das ›Majörle‹ hatte rundweg erklärt, daß es diese Reise in das Gebirge nicht mitmachen werde, wenn es die Uniform nicht anziehen dürfe, und dieser militärisch feste Wille war nach langen, elterlichen Gegenreden schließlich mit dem schuldigen Respekt begriffen und ausgeführt worden. In der Rangliste der Knabenzeit steht das ›Majörle‹ über dem Major. Man hat ihm zu gehorchen!",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Thomas Mann ",
+        "Titel":"Wälsungenblut",
+        "Absatz":"Da es sieben Minuten vor zwölf war, kam Wendelin in den Vorsaal des ersten Stockes und rührte das Tamtam. Breitbeinig, in seinen veilchenfarbenen Kniehosen, stand er auf einem altersblassen Gebetsteppich und bearbeitete das Metall mit dem Klöppel. Der erzene Lärm, wild, kannibalisch und übertrieben für seinen Zweck, drang überall hin: in die Salons zur Rechten und Linken, den Billardsaal, die Bibliothek, den Wintergarten, hinab und hinauf durch das ganze Haus, dessen gleichmäßig erwärmte Atmosphäre durchaus mit einem süßen und exotischen Parfum geschwängert war. Endlich schwieg er, und Wendelin ging noch sieben Minuten lang anderen Geschäften nach, indes Florian im Eßsaal die letzte Hand an den Frühstückstisch legte. Aber Schlag zwölf Uhr ertönte die kriegerische Mahnung zum zweitenmal. Und hierauf erschien man.",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"external"
+    },
+    {
+        "Autor":"Thomas Mann ",
+        "Titel":"Wälsungenblut",
+        "Absatz":"Herr Aarenhold kam mit kurzen Schritten aus der Bibliothek, wo er sich mit seinen alten Drucken beschäftigt hatte. Er erwarb beständig literarische Altertümer, Ausgaben erster Hand in allen Sprachen, kostbare und moderige Scharteken. Indem er sich leise die Hände rieb, fragte er in seiner gedämpften und ein wenig leidenden Art: »Ist Beckerath noch nicht da?«",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Thomas Mann ",
+        "Titel":"Wälsungenblut",
+        "Absatz":"»Nun, er wird kommen. Wie wird er nicht kommen? Er spart ein Frühstück im Restaurant«, antwortete Frau Aarenhold, indem sie auf dem dicken Läufer geräuschlos über die Treppe kam, auf deren Absatz eine kleine, uralte Kirchenorgel stand. ",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Thomas Mann ",
+        "Titel":"Wälsungenblut",
+        "Absatz":"Herr Aarenhold blinzelte. Seine Frau war unmöglich. Sie war klein, häßlich, früh gealtert und wie unter einer fremden, heißeren Sonne verdorrt. Eine Kette von Brillanten lag auf ihrer eingefallenen Brust. Sie trug ihr graues Haar in vielen Schnörkeln und Ausladungen zu einer umständlichen und hochgebauten Coiffure angeordnet, in welcher, irgendwo seitwärts, eine große, farbig funkelnde und ihrerseits mit einem weißen Federbüschel gezierte Brillant-Agraffe befestigt war. Herr Aarenhold und die Kinder hatten ihr diese Haartracht mehr als einmal mit gut gesetzten Worten verwiesen. Aber Frau Aarenhold bestand mit Zähigkeit auf ihren Geschmack. ",
+        "Fokalisierung":"zero",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Alfred Döblin ",
+        "Titel":"Die Ermordung einer Butterblume",
+        "Absatz":"Der schwarzgekleidete Herr hatte erst seine Schritte gezählt, eins, zwei, drei, bis hundert und rückwärts, als er den breiten Fichtenweg nach St. Ottilien hinanstieg, und sich bei jeder Bewegung mit den Hüften stark nach rechts und links gewiegt, so daß er manchmal taumelte; dann vergaß er es.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Alfred Döblin ",
+        "Titel":"Die Ermordung einer Butterblume",
+        "Absatz":"Die hellbraunen Augen, die freundlich hervorquollen, starrten auf den Erdboden, der unter den Füßen fortzog, und die Arme schlenkerten an den Schultern, daß die weißen Manschetten halb über die Hände fielen. Wenn ein gelbrotes Abendlicht zwischen den Stämmen die Augen zum Zwinkern brachte, zuckte der Kopf, machten die Hände entrüstete hastige Abwehrbewegungen. Das dünne Spazierstöckchen wippte in der Rechten über Gräser und Blumen am Wegrand und vergnügte sich mit den Blüten.",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Alfred Döblin ",
+        "Titel":"Die Ermordung einer Butterblume",
+        "Absatz":"Es blieb, als der Herr immer ruhig und achtlos seines Weges zog, an dem spärlichen Unkraut hängen. Da hielt der ernste Herr nicht inne, sondern ruckte, weiter schlendernd, nur leicht am Griff, schaute sich dann am Arm festgehalten verletzt um, riß erst vergebens, dann erfolgreich mit beiden Fäusten das Stöckchen los und trat atemlos mit zwei raschen Blicken auf den Stock und den Rasen zurück, so daß die Goldkette auf der schwarzen Weste hochsprang. ",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Alfred Döblin ",
+        "Titel":"Die Ermordung einer Butterblume",
+        "Absatz":"Außer sich stand der Dicke einen Augenblick da. Der steife Hut saß ihm im Nacken. Er fixierte die verwachsenen Blumen, um dann mit erhobenem Stock auf sie zu stürzen und blutroten Gesichts auf das stumme Gewächs loszuschlagen. Die Hiebe sausten rechts und links. Über den Weg flogen Stiele und Blätter.",
+        "Fokalisierung":"external",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Arthur Schnitzler ",
+        "Titel":"Die Toten schweigen",
+        "Absatz":"Er ertrug es nicht länger, ruhig im Wagen zu sitzen; er stieg aus und ging auf und ab. Es war schon dunkel; die wenigen Laternenlichter in dieser stillen, abseits liegenden Straße flackerten, vom Winde bewegt, hin und her. Es hatte aufgehört zu regnen; die Trottoirs waren beinahe trocken; aber die ungepflasterten Fahrstraßen waren noch feucht, und an einzelnen Stellen hatten sich kleine Tümpel gebildet.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Arthur Schnitzler ",
+        "Titel":"Die Toten schweigen",
+        "Absatz":"Es ist sonderbar, dachte Franz, wie man sich hier, hundert Schritte von der Praterstraße, in irgendeine ungarische Kleinstadt versetzt glauben kann. Immerhin – sicher dürfte man hier wenigstens sein; hier wird sie keinen ihrer gefürchteten Bekannten treffen.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Arthur Schnitzler ",
+        "Titel":"Die Toten schweigen",
+        "Absatz":"Er sah auf die Uhr … Sieben – und schon völlige Nacht. Der Herbst ist diesmal früh da. Und der verdammte Sturm. ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Arthur Schnitzler ",
+        "Titel":"Die Toten schweigen",
+        "Absatz":"Er stellte den Kragen in die Höhe und ging rascher auf und ab. Die Laternenfenster klirrten. »Noch eine halbe Stunde«, sagte er zu sich, »dann kann ich gehen. Ah – ich wollte beinahe, es wäre so weit.« Er blieb an der Ecke stehen; hier hatte er einen Ausblick auf beide Straßen, von denen aus sie kommen könnte.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Georg Heym",
+        "Titel":"Der Irre",
+        "Absatz":"Der Wärter gab ihm seine Sachen, der Kassierer händigte ihm sein Geld aus, der Türsteher schloß vor ihm die große eiserne Tür auf. Er war im Vorgarten, er klinkte die Gartenpforte auf, und er war draußen.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Georg Heym",
+        "Titel":"Der Irre",
+        "Absatz":"So, und nun sollte die Welt etwas erleben.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Georg Heym",
+        "Titel":"Der Irre",
+        "Absatz":"Er war also frei. Es war aber auch höchste Zeit, daß sie ihn herausgelassen hatten, denn sonst hätte er alle umgebracht, alle miteinander. Den dicken Direktor, den hätte er an seinem roten Spitzbart gekriegt und ihn unter die Wurstmaschine gezogen. Ach, was war das für ein widerlicher Kerl. Wie der immer lachte, wenn er durch die Fleischerei kam. ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Georg Heym",
+        "Titel":"Der Irre",
+        "Absatz":"Teufel, das war ein ganz widerwärtiger Kerl.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Franz Kafka",
+        "Titel":"Das Urteil",
+        "Absatz":"Es war an einem Sonntagvormittag im schönsten Frühjahr. Georg Bendemann, ein junger Kaufmann, saß in seinem Privatzimmer im ersten Stock eines der niedrigen, leichtgebauten Häuser, die entlang des Flusses in einer langen Reihe, fast nur in der Höhe und Färbung unterschieden, sich hinzogen. Er hatte gerade einen Brief an einen sich im Ausland befindenden Jugendfreund beendet, verschloß ihn in spielerischer Langsamkeit und sah dann, den Ellbogen auf den Schreibtisch gestützt, aus dem Fenster auf den Fluß, die Brücke und die Anhöhen am anderen Ufer mit ihrem schwachen Grün.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Franz Kafka",
+        "Titel":"Das Urteil",
+        "Absatz":"Er dachte darüber nach, wie dieser Freund, mit seinem Fortkommen zu Hause unzufrieden, vor Jahren schon nach Rußland sich förmlich geflüchtet hatte. Nun betrieb er ein Geschäft in Petersburg, das anfangs sich sehr gut angelassen hatte, seit langem aber schon zu stocken schien, wie der Freund bei seinen immer seltener werdenden Besuchen klagte. So arbeitete er sich in der Fremde nutzlos ab, der fremdartige Vollbart verdeckte nur schlecht das seit den Kinderjahren wohlbekannte Gesicht, dessen gelbe Hautfarbe auf eine sich entwickelnde Krankheit hinzudeuten schien. Wie er erzählte, hatte er keine rechte Verbindung mit der dortigen Kolonie seiner Landsleute, aber auch fast keinen gesellschaftlichen Verkehr mit einheimischen Familien und richtete sich so für ein endgültiges Junggesellentum ein.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Franz Kafka",
+        "Titel":"Das Urteil",
+        "Absatz":"Was wollte man einem solchen Manne schreiben, der sich offenbar verrannt hatte, den man bedauern, dem man aber nicht helfen konnte. Sollte man ihm vielleicht raten, wieder nach Hause zu kommen, seine Existenz hierher zu verlegen, alle die alten freundschaftlichen Beziehungen wieder aufzunehmen – wofür ja kein Hindernis bestand – und im übrigen auf die Hilfe der Freunde zu vertrauen? Das bedeutete aber nichts anderes, als daß man ihm gleichzeitig, je schonender, desto kränkender, sagte, daß seine bisherigen Versuche mißlungen seien, daß er endlich von ihnen ablassen solle, daß er zurückkehren und sich als ein für immer Zurückgekehrter von allen mit großen Augen anstaunen lassen müsse, daß nur seine Freunde etwas verstünden und daß er ein altes Kind sei und den erfolgreichen, zu Hause gebliebenen Freunden einfach zu folgen habe. Und war es dann noch sicher, daß alle die Plage, die man ihm antun müßte, einen Zweck hätte? Vielleicht gelang es nicht einmal, ihn überhaupt nach Hause zu bringen – er sagte ja selbst, daß er die Verhältnisse in der Heimat nicht mehr verstünde –, und so bliebe er dann trotz allem in seiner Fremde, verbittert durch die Ratschläge und den Freunden noch ein Stück mehr entfremdet. Folgte er aber wirklich dem Rat und würde hier – natürlich nicht mit Absicht, aber durch die Tatsachen – niedergedrückt, fände sich nicht in seinen Freunden und nicht ohne sie zurecht, litte an Beschämung, hätte jetzt wirklich keine Heimat und keine Freunde mehr; war es da nicht viel besser für ihn, er blieb in der Fremde, so wie er war? Konnte man denn bei solchen Umständen daran denken, daß er es hier tatsächlich vorwärts bringen würde? ",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"external",
+        "Prediction_1":"external",
+        "Prediction_2":"internal"
+    },
+    {
+        "Autor":"Franz Kafka",
+        "Titel":"Das Urteil",
+        "Absatz":"Aus diesen Gründen konnte man ihm, wenn man überhaupt noch die briefliche Verbindung aufrecht erhalten wollte, keine eigentlichen Mitteilungen machen, wie man sie ohne Scheu auch den entferntesten Bekannten geben würde. Der Freund war nun schon über drei Jahre nicht in der Heimat gewesen und erklärte dies sehr notdürftig mit der Unsicherheit der politischen Verhältnisse in Rußland, die demnach also auch die kürzeste Abwesenheit eines kleinen Geschäftsmannes nicht zuließen, während hunderttausende Russen ruhig in der Welt herumfuhren. Im Laufe dieser drei Jahre hatte sich aber gerade für Georg vieles verändert. Von dem Todesfall von Georgs Mutter, der vor etwa zwei Jahren erfolgt war und seit welchem Georg mit seinem alten Vater in gemeinsamer Wirtschaft lebte, hatte der Freund wohl noch erfahren und sein Beileid in einem Brief mit einer Trockenheit ausgedrückt, die ihren Grund nur darin haben konnte, daß die Trauer über ein solches Ereignis in der Fremde ganz unvorstellbar wird. Nun hatte aber Georg seit jener Zeit, so wie alles andere, auch sein Geschäft mit größerer Entschlossenheit angepackt. Vielleicht hatte ihn der Vater bei Lebzeiten der Mutter dadurch, daß er im Geschäft nur seine Ansicht gelten lassen wollte, an einer wirklichen eigenen Tätigkeit gehindert. Vielleicht war der Vater seit dem Tode der Mutter, trotzdem er noch immer im Geschäft arbeitete, zurückhaltender geworden, vielleicht spielten – was sogar sehr wahrscheinlich war – glückliche Zufälle eine weit wichtigere Rolle, jedenfalls aber hatte sich das Geschäft in diesen zwei Jahren ganz unerwartet entwickelt. Das Personal hatte man verdoppeln müssen, der Umsatz sich verfünffacht, ein weiterer Fortschritt stand zweifellos bevor.",
+        "Fokalisierung":"internal",
+        "Kommentar":null,
+        "Prediction_0":"internal",
+        "Prediction_1":"internal",
+        "Prediction_2":"internal"
+    }
+]
